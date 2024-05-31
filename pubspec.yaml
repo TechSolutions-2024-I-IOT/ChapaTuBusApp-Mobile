@@ -75,6 +75,7 @@ flutter:
     - assets/images/bg-light.png
     - assets/animations/bus_animated.riv
     - assets/animations/icons.riv
+    - assets/gifs/avance_app_movil.gif
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
